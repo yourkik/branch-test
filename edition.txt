@@ -3,4 +3,5 @@ second edition
 third edition
 issue resolved
 hotfix my solution2
-third hotfix
+fix Team's Third solution
+origin/master
